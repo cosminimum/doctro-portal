@@ -1,0 +1,27 @@
+{
+      "documentation_url": "https://documentation.bold-themes.com/cliniq/getting-started/",
+      "support_url": "https://boldthemes.ticksy.com/",
+      "xls": [
+        { 
+          "name": "classic.WordPress.2024-03-15.xml",
+          "title": "Classic Demo",
+          "img": "Classic.jpg",
+          "url": "https://cliniq.bold-themes.com/classic/",
+          "hpno": 4
+        },
+        { 
+          "name": "curves.WordPress.2024-03-15.xml",
+          "title": "Curves Demo",
+          "img": "Curves.jpg",
+          "url": "https://cliniq.bold-themes.com/curves/",
+          "hpno": 4
+        },
+        { 
+          "name": "futuristic.WordPress.2024-03-15.xml",
+          "title": "Futuristic Demo",
+          "img": "Futuristic.jpg",
+          "url": "https://cliniq.bold-themes.com/futuristic/",
+          "hpno": 4
+        }
+      ] 
+  }
